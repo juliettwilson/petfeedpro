@@ -1,0 +1,284 @@
+{
+    "users": [
+        {
+            "username": "oralbek",
+            "full_name": "oralbek",
+            "email": "oralbek@gmail.com",
+            "password": "oralbek",
+            "token": "a142e56d-f00a-4edc-b34e-8e8b18b87939",
+            "avatar_url": "http://localhost:8000/uploads/oralbek_avatar.jpg"
+        },
+        {
+            "username": "cccc",
+            "full_name": "cccc",
+            "email": "cccc@dssd.gfeg",
+            "password": "ffffff",
+            "token": "e1e6a787-dc12-454d-87d1-10a92542d429",
+            "avatar_url": null
+        },
+        {
+            "username": "dnywlsn",
+            "full_name": "ayzhan sagatova",
+            "email": "ayzhan@icloud.com",
+            "password": "909090",
+            "token": "3b16d8f8-e84b-403d-b791-54246ae54ce1",
+            "avatar_url": "http://localhost:8000/uploads/dnywlsn_avatar.jpg"
+        }
+    ],
+    "pets": [
+        {
+            "id": "ffe17fb4-a069-439f-8b6b-87c4927d3146",
+            "name": "Csacacasca",
+            "type": "Dog",
+            "is_fed": true,
+            "owner_username": "oralbek",
+            "birth_date": "2026-04-02 18:59:00+00:00",
+            "feeding_history": [
+                {
+                    "id": "e8e3c977-495a-4afc-a5fe-905a851010b7",
+                    "timestamp": "2026-04-16 19:02:00.289232+00:00",
+                    "amount": "200g"
+                },
+                {
+                    "id": "731d91ca-94aa-4f7d-9929-1f56b29a71f3",
+                    "timestamp": "2026-04-16 19:02:00.862439+00:00",
+                    "amount": "200g"
+                },
+                {
+                    "id": "9ad0cb6d-7e96-46e3-801f-43652b0dd0fb",
+                    "timestamp": "2026-04-16 19:02:01.247081+00:00",
+                    "amount": "200g"
+                },
+                {
+                    "id": "13c7c9fa-e1da-4bdf-84fc-2f99b88e32ce",
+                    "timestamp": "2026-04-16 19:02:14.257624+00:00",
+                    "amount": "200g"
+                },
+                {
+                    "id": "82d3a4e4-a750-47ad-ba57-a4c2cd8ae49e",
+                    "timestamp": "2026-04-16 19:02:14.480186+00:00",
+                    "amount": "200g"
+                },
+                {
+                    "id": "e5660a22-01ce-4c36-90ff-13b49ec04859",
+                    "timestamp": "2026-04-16 19:02:14.713130+00:00",
+                    "amount": "200g"
+                },
+                {
+                    "id": "46ab2f3e-9096-4a26-80b6-8344ed7d249c",
+                    "timestamp": "2026-04-16 19:02:14.913382+00:00",
+                    "amount": "200g"
+                }
+            ]
+        },
+        {
+            "id": "a9ce2e3c-6859-4152-9be7-a9c3d184c2fd",
+            "name": " Cos s. Csc",
+            "type": "Cat",
+            "is_fed": false,
+            "owner_username": "oralbek",
+            "birth_date": "2026-04-01 18:59:00+00:00",
+            "feeding_history": []
+        },
+        {
+            "id": "f7004f6d-fdff-4dab-ae6c-5bca3eb48f32",
+            "name": "Aizhan",
+            "type": "Dog",
+            "is_fed": true,
+            "owner_username": "dnywlsn",
+            "birth_date": "2026-04-03 08:56:00+00:00",
+            "feeding_history": [
+                {
+                    "id": "013719b9-e53e-436c-882a-b83082c23090",
+                    "timestamp": "2026-04-17 08:57:33.309399+00:00",
+                    "amount": "200g"
+                },
+                {
+                    "id": "ef59c57f-aec8-4ad7-9024-fc7f499b0300",
+                    "timestamp": "2026-04-17 08:59:47.006452+00:00",
+                    "amount": "200g"
+                }
+            ]
+        },
+        {
+            "id": "3c89692e-8384-4cfc-85fb-fcde8bdcd30b",
+            "name": "Mysyq",
+            "type": "Cat",
+            "is_fed": true,
+            "owner_username": "dnywlsn",
+            "birth_date": "2024-07-03 08:56:00+00:00",
+            "feeding_history": [
+                {
+                    "id": "f84e7f19-6315-492e-bb6c-2fd82273423a",
+                    "timestamp": "2026-04-17 08:58:17.356404+00:00",
+                    "amount": "200g"
+                },
+                {
+                    "id": "27b63623-cccf-44a0-b3a3-5f2349b4aa84",
+                    "timestamp": "2026-04-17 08:58:17.920582+00:00",
+                    "amount": "200g"
+                },
+                {
+                    "id": "945c6b35-6544-4c48-8810-c397f6b444c4",
+                    "timestamp": "2026-04-17 09:00:02.542366+00:00",
+                    "amount": "200g"
+                }
+            ]
+        },
+        {
+            "id": "ab350a57-b1f8-48ea-86d6-f96c370085a4",
+            "name": "Balyq",
+            "type": "Fish",
+            "is_fed": true,
+            "owner_username": "dnywlsn",
+            "birth_date": "2025-11-10 08:56:00+00:00",
+            "feeding_history": [
+                {
+                    "id": "0a1737e7-097f-4030-a279-690616570ab1",
+                    "timestamp": "2026-04-17 08:59:39.640802+00:00",
+                    "amount": "10000g"
+                },
+                {
+                    "id": "70c9c781-a04d-41e2-a313-62d053416939",
+                    "timestamp": "2026-04-17 09:00:10.506849+00:00",
+                    "amount": "200g"
+                },
+                {
+                    "id": "99381c7c-1ff6-47d6-8842-34974e5ac262",
+                    "timestamp": "2026-04-17 09:21:51.984736+00:00",
+                    "amount": "200g"
+                },
+                {
+                    "id": "8cb283d8-074e-4642-95ca-48a727c0bd7a",
+                    "timestamp": "2026-04-17 09:23:32.933665+00:00",
+                    "amount": "200g"
+                },
+                {
+                    "id": "548784d5-43c2-48bb-8b78-e158a3d1c7da",
+                    "timestamp": "2026-04-17 09:23:34.119432+00:00",
+                    "amount": "200g"
+                },
+                {
+                    "id": "114dd0ff-b34e-41c4-8cc7-eb1cc20b07f7",
+                    "timestamp": "2026-04-17 09:23:34.332159+00:00",
+                    "amount": "200g"
+                },
+                {
+                    "id": "8208c36e-9714-4d51-98d9-b233251084ff",
+                    "timestamp": "2026-04-17 09:23:34.660118+00:00",
+                    "amount": "200g"
+                },
+                {
+                    "id": "2cb442ea-0876-4bc2-8798-a03a27429478",
+                    "timestamp": "2026-04-17 09:23:34.830574+00:00",
+                    "amount": "200g"
+                },
+                {
+                    "id": "b21a3cfc-e04c-4bed-a5a2-4b11efd7ff0e",
+                    "timestamp": "2026-04-17 09:23:34.996171+00:00",
+                    "amount": "200g"
+                },
+                {
+                    "id": "8949bdea-2d1c-4ecf-b3ae-ffa2e3b8b60e",
+                    "timestamp": "2026-04-17 09:23:35.182364+00:00",
+                    "amount": "200g"
+                },
+                {
+                    "id": "83b1d8ba-aee5-4e2f-b75e-8e0e52a4c7c6",
+                    "timestamp": "2026-04-17 09:23:35.330790+00:00",
+                    "amount": "200g"
+                },
+                {
+                    "id": "c2f7a6d2-9ae0-473e-9174-34bd2ead6049",
+                    "timestamp": "2026-04-17 09:23:35.516610+00:00",
+                    "amount": "200g"
+                },
+                {
+                    "id": "7c7d24f6-07e8-4ba6-94c1-a4253830fce3",
+                    "timestamp": "2026-04-17 09:23:35.681841+00:00",
+                    "amount": "200g"
+                },
+                {
+                    "id": "76927da0-2b9a-4547-b61a-674c2866f0c2",
+                    "timestamp": "2026-04-17 09:23:35.833827+00:00",
+                    "amount": "200g"
+                },
+                {
+                    "id": "2645eabc-1f5e-4f29-8d75-8ba25406231b",
+                    "timestamp": "2026-04-17 09:23:35.997932+00:00",
+                    "amount": "200g"
+                },
+                {
+                    "id": "08bf717e-6485-4a6a-83eb-06e59b9b2011",
+                    "timestamp": "2026-04-17 09:23:36.150514+00:00",
+                    "amount": "200g"
+                },
+                {
+                    "id": "15f7f0a9-1a16-4976-99cf-ce0809329f47",
+                    "timestamp": "2026-04-17 09:23:36.316811+00:00",
+                    "amount": "200g"
+                },
+                {
+                    "id": "c5c8bba8-a97d-40d0-a9eb-fc118b741fa7",
+                    "timestamp": "2026-04-17 09:23:36.747531+00:00",
+                    "amount": "200g"
+                },
+                {
+                    "id": "280cee89-a10c-4e13-9405-58fc779433fe",
+                    "timestamp": "2026-04-17 09:23:36.915552+00:00",
+                    "amount": "200g"
+                },
+                {
+                    "id": "c2c8c2d5-0181-45af-ad03-6b50eac1a18f",
+                    "timestamp": "2026-04-17 09:23:37.065647+00:00",
+                    "amount": "200g"
+                },
+                {
+                    "id": "d5f7ea1b-c87f-43e2-8822-b73981d2452d",
+                    "timestamp": "2026-04-17 09:23:37.233256+00:00",
+                    "amount": "200g"
+                },
+                {
+                    "id": "154f7f1d-806a-4e6e-ab7a-72187f7fb138",
+                    "timestamp": "2026-04-17 09:23:37.397103+00:00",
+                    "amount": "200g"
+                },
+                {
+                    "id": "a66c377f-e3a5-42f4-9c7c-9b113254b535",
+                    "timestamp": "2026-04-17 09:23:37.565036+00:00",
+                    "amount": "200g"
+                },
+                {
+                    "id": "669b3042-2c48-410e-bf5b-d8af8c16b422",
+                    "timestamp": "2026-04-17 09:23:37.695626+00:00",
+                    "amount": "200g"
+                },
+                {
+                    "id": "93bc4a8b-56c6-427b-be63-82845048eadb",
+                    "timestamp": "2026-04-17 09:23:37.865967+00:00",
+                    "amount": "200g"
+                },
+                {
+                    "id": "60a21dd6-8be9-4fe0-950a-54bc99f1163e",
+                    "timestamp": "2026-04-17 09:23:38.012580+00:00",
+                    "amount": "200g"
+                }
+            ]
+        },
+        {
+            "id": "53859db3-d204-4674-8690-2f78ca6fe315",
+            "name": "\u0420\u0440\u0440\u0440",
+            "type": "Fish",
+            "is_fed": true,
+            "owner_username": "dnywlsn",
+            "birth_date": "2025-11-10 08:56:00+00:00",
+            "feeding_history": [
+                {
+                    "id": "5bc4e835-fb73-4588-b321-a1a902581a06",
+                    "timestamp": "2026-04-17 09:22:28.554782+00:00",
+                    "amount": "200g"
+                }
+            ]
+        }
+    ]
+}
